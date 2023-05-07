@@ -9,7 +9,7 @@ tags: [jekyll, markdown, python, xml] # TAG names should always be lowercase
 
 Hello, my name is Justin Vastola, and welcome to my Jekyll site! This Jekyll example site was made possible thanks to the template by cotes2020 on GitHub:
 
-https://github.com/cotes2020/jekyll-theme-chirpy
+[https://github.com/cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
 # What is this Post?
 
